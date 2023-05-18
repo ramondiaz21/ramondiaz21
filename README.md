@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inova Enterprise MX as Wordpress/Front Developer<br>👯 I’m looking to collaborate with other developers to improve my skills<br>🌱 I’m currently learning React Js<br>💬 Ask me about SEO, FrontEnd Development<br>⚡ I'm looking for team working
+🔭 I’m currently working on Inova Enterprise MX as Wordpress/FrontEnd Developer<br>👯 I’m looking to collaborate with other developers to improve my skills<br>🌱 I’m currently learning React Js<br>💬 Ask me about SEO, FrontEnd Development<br>⚡ I'm looking for team working
 
 
 ## 🌐 Socials:
